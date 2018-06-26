@@ -1,6 +1,6 @@
 # Cifar10-Keras-Implementation
 
-install tensorflow and keras for pyhton
+install tensorflow and keras for pyhton3
 run file on terminal:-
 python3 identify.py in target folder
 
