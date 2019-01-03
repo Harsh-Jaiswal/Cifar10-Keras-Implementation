@@ -1,6 +1,6 @@
 # Cifar10-Keras-Implementation
 
-install tensorflow and keras for pyhton3
+install tensorflow and keras for python3
 
 run file on terminal:-
 
